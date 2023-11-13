@@ -1,1 +1,1 @@
-# note-thai-ledger
+# NoteThai Ledger
